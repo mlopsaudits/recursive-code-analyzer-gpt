@@ -1,4 +1,4 @@
-# Python Code Analyzer and GPT-3 Summarizer
+# Recursive Python Code Analyzer With GPT-3 Summarization
 
 This software is a Python code analyzer that uses the GPT-3 model by OpenAI to summarize Python scripts.
 
