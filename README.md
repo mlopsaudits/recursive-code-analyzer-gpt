@@ -1,6 +1,6 @@
 # Recursive Python Code Analyzer With GPT-3 Summarization
 
-This software is a Python code analyzer that uses the GPT-3 model by OpenAI to summarize Python scripts.
+This Python script operates like the Linux 'find' tool but with a twist - it recursively crawls through the local directory, picking up every Python file it encounters. For each Python file, it extracts and explains all the functions and classes along with their respective docstrings, offering an insightful overview of the code structure and functionality. The results are subsequently processed by the GPT-3 model for summarization.
 
 ## Features
 
